@@ -1,2 +1,2 @@
 # Sample-images
-Available after publication.
+Available after publication of the paper.
