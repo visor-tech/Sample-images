@@ -5,7 +5,7 @@
 The full dataset of a macaque brain is ~250 TB 16-bit TIFF images. Below are sample images of several slices.
 
 ## Sample 2D projections
-### Imageset 1
+### Imageset 1: superior collicuclus
 This monkey was injected with AAV-eGFP and AAV-mCherry into bilateral superior collicuclus (SC). A third channel is for DAPI staining.
 
 A sample image could be viewed in the SMART Image Browser:
@@ -13,14 +13,14 @@ A sample image could be viewed in the SMART Image Browser:
 [http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l](http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l)
 
 
-### Imageset 2
+### Imageset 2: mediodorsal nucleus
 This monkey was injected with AAV-eGFP and AAV-mCherry into bilateral mediodorsal nucleus of thalumus (MD).
 
 A sample image could be viewed in the SMART Image Browser:
 _**To be done**_
 
 
-### Imageset 3
+### Imageset 3: doparminergic immunostaining
 This monkey brain slice is stained with anti-TH antibody for labeling dopaminergic projections.
 
 It could be viewed in the SMART Image Browser:
@@ -28,7 +28,7 @@ It could be viewed in the SMART Image Browser:
 _**To be done**_
 
 ## Sample 3D image blocks
-### Imageset 4
+### Imageset 4: axonal morphology
 [Lychnis tracer](https://github.com/SMART-pipeline/Lychnis-tracing) is for 3D fiber tracing in raw image spaces.
 
 Here is a series of image blocks that are surrounding a thalamocortical axon.
