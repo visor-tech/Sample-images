@@ -9,6 +9,7 @@ The full dataset of a macaque brain is ~250 TB 16-bit TIFF images. Below are sam
 This monkey was injected with AAV-eGFP and AAV-mCherry into bilateral superior collicuclus (SC). A third channel is for DAPI staining.
 
 A sample image could be viewed in the SMART Image Browser:
+
 [http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l](http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l)
 
 
@@ -28,17 +29,24 @@ _**To be done**_
 
 ## Sample 3D image blocks
 ### Imageset 4
-[Lychnis tracer] is for 3D fiber tracing in raw image spaces.
+[Lychnis tracer](https://github.com/SMART-pipeline/Lychnis-tracing) is for 3D fiber tracing in raw image spaces.
 
 Here is a series of image blocks that are surrounding a thalamocortical axon.
 
 _**To be done**_
 
-It can be loaded and viewed in [Lychnis tracer].
+It can be loaded and viewed in _Lychnis tracer_. [Lychnis version 1.2.5](https://github.com/SMART-pipeline/Lychnis-tracing/releases/download/1.2.5/Lychnis-1.2.5.zip) has been tested and certified for this dataset. [Newer versions](https://github.com/SMART-pipeline/Lychnis-tracing/releases) could work as well.
+
+Step-by-step tutorial for playing with the demo data:
+1. Unzip the package and run lychnis-1.2.5.exe directly.
+2. Choose File -> Open Project
+3. Select the project file (xxx.json) and open it.
+
+Detailed manual of Lychnis could be found in the [project page](https://github.com/SMART-pipeline/Lychnis-tracing).
 
 
 For more details see [paper link here upon publication](https://www.biorxiv.org/content/10.1101/2020.09.25.313395v1).
 
 ## Support or Contact
 
-Having any questions? Contact at the authors [Dr. Fang Xu](mailto:ustcxf@gmail.com) et al. and we’ll help you sort it out.
+Having any questions? Contact us and we’ll help you sort it out.
