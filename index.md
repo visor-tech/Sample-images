@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## SMART Image Browser
 
-You can use the [editor on GitHub](https://github.com/SMART-pipeline/Sample-images/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[SMART](https://www.biorxiv.org/content/10.1101/2020.09.25.313395v1) stands for “**S**erial sectioning and clearing, 3-dimensional **M**icroscopy, with semi-**A**utomated **R**econstruction and **T**racing”. It is an integrative technologies for high-throughput imaging and analysis that combines primate-optimized tissue sectioning and clearing with ultrahigh-speed, large-scale, volumetric fluorescence microscopy, capable of completing whole-brain imaging of a rhesus monkey at 1 µm × 1 µm × 2.5 µm voxel resolution within 100 hours.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The full dataset of a macaque brain is ~250 TB 16-bit TIFF images. Below are sample images of several slices.
 
-### Markdown
+## Sample 2D projections
+### Imageset 1
+This monkey was injected with AAV-eGFP and AAV-mCherry into bilateral superior collicuclus (SC). A third channel is for DAPI staining.
+A sample image could be viewed in the SMART Image Browser:
+[http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l](http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Imageset 2
+This monkey was injected with AAV-eGFP and AAV-mCherry into bilateral mediodorsal nucleus of thalumus (MD).
+A sample image could be viewed in the SMART Image Browser:
+_**To be done**_
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Imageset 3
+This monkey brain slice is stained with anti-TH antibody for labeling dopaminergic projections.
+It could be viewed in the SMART Image Browser:
+_**To be done**_
 
-1. Numbered
-2. List
+## Sample 3D image blocks
+### Imageset 4
+[Lychnis tracer] is for 3D fiber tracing in raw image spaces.
+Here is a series of image blocks that are surrounding a thalamocortical axon.
+_**To be done**_
+It can be loaded and viewed in [Lychnis tracer].
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+For more details see [paper link here upon publication](https://www.biorxiv.org/content/10.1101/2020.09.25.313395v1).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Support or Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SMART-pipeline/Sample-images/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any questions? Contact at the authors [Dr. Fang Xu](mailto:ustcxf@gmail.com) et al. and we’ll help you sort it out.
