@@ -6,16 +6,22 @@ The full dataset of a macaque brain is ~250 TB 16-bit TIFF images. Below are sam
 
 ## Sample 2D projections
 ### Imageset 1: superior collicuclus
-This rhesus monkey was injected with AAV-Cre plus AAV-DIO-eGFP, and AAV-Cre plus AAV-DIO-mCherry into bilateral superior collicuclus (SC). The brain was sectioned into 300-µm slices, which were also stained with DAPI.
+This rhesus monkey was injected with AAV-Cre plus AAV-DIO-eGFP, and AAV-Cre plus AAV-DIO-mCherry into bilateral superior collicuclus (SC). The brain was sectioned into 300-µm slices, which were also stained with NeuroTrace 640/660, a fluorescent Nissl stain. 
 
-Example 3-channel maximum intensity projection (MIP) images resliced (50-µm each) from a sections could be viewed in the SMART Image Browser:
+Example 3-channel maximum intensity projection (MIP) images resliced (50-µm each) from a sections could be viewed in the SMART Image Browser: (Related to Fig. 1m-n)
 
 [http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l](http://smart.siat.ac.cn/slides.html?data=200309-006-156&slide=784&site=l)
 
+### Imageset 2: mediodorsal nucleus
+This rhesus monkey was injected with AAV-Cre plus AAV-DIO-eGFP, and AAV-Cre plus AAV-DIO-mCherry into bilateral mediodorsal nucleus of thalamus (MD). The brain was sectioned into 300-µm slices, imaged and analyzed following the SMART pipeline.
+
+Example 2-channel maximum intensity projection (MIP) images resliced (50-µm each) from 6 consecutive sections could be viewed in the SMART Image Browser: (Related to Fig. 2e) 
+
+[http://smart.siat.ac.cn/slides.html?data=006-9095-6&site=l](http://smart.siat.ac.cn/slides.html?data=006-9095-6&site=l)
 
 
 ## Sample 3D image blocks
-### Imageset 2: axonal morphology
+### Imageset 3: axonal morphology
 [Lychnis tracer](https://github.com/SMART-pipeline/Lychnis-tracing) is for 3D fiber tracing in raw image spaces.
 
 A series of image blocks that are surrounding a thalamocortical axon is accessible from the zenodo link provided in the manuscript. Due to the limit of file size in zenodo and figshare, the current version in zenodo is of lower resolution. Upon publication, datasets with larger size could be accessed via the following link:
